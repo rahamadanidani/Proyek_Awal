@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wisata Sumbar</string>
+    <string name="texttempat_wisata_sumatera_barat">Tempat Wisata Sumatera Barat</string>
+    <string name="textmasukkan_nama_pengguna">masukkan nama pengguna</string>
+    <string name="textmasukkan_password">masukkan password</string>
+    <string name="textlogin">Login</string>
+    <string name="texttampilan_awal">tampilan awal</string>
+    <string name="textnama_wisata">Nama Wisata</string>
+    <string name="textjembatan_siti_nurbaya">Jembatan Siti Nurbaya</string>
+    <string name="textmasjid_raya_sumbar">Masjid Raya Sumbar</string>
+    <string name="textistana_pagaruyuang">Istana Pagaruyuang</string>
+    <string name="textjam_gadang">Jam Gadang</string>
+    <string name="text">Back</string>
+    <string name="textjembatan">Jembatan</string>
+    <string name="textmasjid_raya">Masjid raya</string>
+    <string name="textistana_minang">Istana minang</string>
+    <string name="textjam_besar">Jam besar</string>
+    <string name="profil">profil</string>
+</resources>
